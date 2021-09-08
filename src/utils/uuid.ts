@@ -1,0 +1,1 @@
+export const uuid = () => `id${Math.random().toFixed(24).substr(2)}`

@@ -1,0 +1,12 @@
+.Input {
+  width: 50%;
+  min-width: 300px;
+  min-height: 50px;
+  justify-content: center;
+  align-items: center;
+  border:cornflowerblue 2px solid;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}

@@ -1,0 +1,16 @@
+.List {
+  flex-direction: column;
+  width: 50%;
+  min-width: 300px;
+  min-height: 100px;
+  max-height: 90%;
+  border: white 1px solid;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.List .container {
+  width: 100%;
+  flex-direction: column;
+  min-height: min-content;
+}
